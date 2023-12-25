@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hola! Soy Julian, vivo en Argentina y actualmente me encuentro estudiando la carrera de Lic. en Ciencia de Datos en la Universidad Nacional de Guillermo Brown.
+Hola! Soy Julian, vivo en Argentina y actualmente me encuentro estudiando la carrera de Lic. en Ciencia de Datos en la Universidad Nacional de Guillermo Brown y trabajando como Analytics Consultant en Seidor Analytics.
 
 <!-- - 🔭 I’m currently working on ... A Pokemon game in Typescript -->
 <!-- - 🌱 I’m currently learning ... React -->
