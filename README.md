@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hola! Soy Julian, vivo en Argentina y actualmente me encuentro estudiando la carrera de Lic. en Ciencia de Datos en la Universidad Nacional de Guillermo Brown y trabajando como Analytics Consultant en Seidor Analytics.
+Hola! Soy Julian, vivo en Argentina y actualmente me encuentro estudiando la carrera de Lic. en Ciencia de Datos en la Universidad Nacional de Guillermo Brown y trabajando como Data Engineer en Seidor Analytics.
 
 🔭 I’m currently working on neural networks in Python
 <!-- - 🌱 I’m currently learning ... React -->
@@ -7,7 +7,7 @@ Hola! Soy Julian, vivo en Argentina y actualmente me encuentro estudiando la car
 ## Contacto
 [Portfolio](https://julian-prieto.vercel.app/)
 [LinkedIn](https://www.linkedin.com/in/julian-prieto-809397253/)
-[EMail](mailto:prietojulian2003@gmail.com)
+[Email](mailto:prietojulian2003@gmail.com)
 <!-- ## Skills
 ![image](https://camo.githubusercontent.com/88ab3c0f78016111d88ef82030375fb740d82dd0c16c1b078c441e22479009b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465)
 ![image](https://camo.githubusercontent.com/3cc20b905b09f53e6ecdb3f7f519007e18cce158aad7ebe113bbfcd68526bde7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7375626c696d655f746578742d2532333537353735372e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7375626c696d652d74657874266c6f676f436f6c6f723d696d706f7274616e74)
