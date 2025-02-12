@@ -1,7 +1,7 @@
 ### Hi there 👋
-Hola! Soy Julian, vivo en Argentina y actualmente me encuentro estudiando la carrera de Lic. en Ciencia de Datos en la Universidad Nacional de Guillermo Brown y trabajando como Data Engineer en Seidor Analytics.
+Hola! Soy Julian, soy licenciado en Ciencia de Datos en la Universidad Nacional de Guillermo Brown (Argentina) y trabajo como Data Engineer en Seidor Analytics.
 
-🔭 I’m currently working on neural networks in Python
+🔭 I’m currently working on neural networks in Python and web development.
 <!-- - 🌱 I’m currently learning ... React -->
 
 ## Contacto
